@@ -19,6 +19,11 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     //7657657657657
+    
+    self.view.backgroundColor = [UIColor blueColor];
+    
+    //333333
+    
 }
 
 
